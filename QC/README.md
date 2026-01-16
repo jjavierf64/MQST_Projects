@@ -1,17 +1,19 @@
 Islands order in https://pennylane.ai/codebook/learning-paths
 
-- [] IQC
+- [ ] PF
 
-- [] SQ
+- [ ] IQC
 
-- [] MQ
+- [ ] SQ
 
-- [] BA
+- [ ] MQ
 
-- [] GA
+- [ ] BA
 
-- [] QFT
+- [ ] GA
 
-- [] QPE
+- [ ] QFT
 
-- [] SH 
+- [ ] QPE
+
+- [ ] SH 
